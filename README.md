@@ -5,4 +5,4 @@ My old website that supposed to reflect my skillset
 - JavaScript - animations, form validation
 - PhP for form backend
 
-live-view: 
+live-view: https://karelza.github.io/personal-website-v1/
